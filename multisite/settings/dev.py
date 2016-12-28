@@ -8,6 +8,7 @@ DEBUG = True
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = '(i62*8!&b=!zm4w_+6#85kxm=%1f#8jq)o!h@dd5g1i+(8c19i'
 
+ALLOWED_HOSTS = ['site2.localhost', 'site3.localhost', 'localhost']
 
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 
