@@ -21,7 +21,7 @@ This implementation is equipped with a SQLite database with a superuser already 
 
 This example implementation includes 3 sites. You can see these at the subdomains:
 
-* http://localhost:8000
+* <http://localhost:8000>
 * http://site2.localhost:8000
 * http://site3.localhost:8000
 
